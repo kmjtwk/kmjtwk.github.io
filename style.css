@@ -12,7 +12,7 @@ body {
     color:#80BD9E;
     font-family:"游ゴシック Light";
     height: 300px;
-    width:max-content;
+    width: 100%;
     height: 100%;
     display: flex;
     justify-content: center;
