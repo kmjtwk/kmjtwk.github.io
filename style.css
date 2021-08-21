@@ -7,12 +7,16 @@
 body {
     background-color:#8497B0;
 }
-.club p {
+.club h1 {
     font-size:52px;
     color:#80BD9E;
     font-family:"游ゴシック Light";
     height: 300px;
     width:max-content;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .club h2 {
     color:#350DC9;
