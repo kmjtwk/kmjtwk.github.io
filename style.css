@@ -1,5 +1,8 @@
 .header-container {
     background-image:url(club.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
 }
 body {
     background-color:#8497B0;
