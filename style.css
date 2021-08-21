@@ -1,22 +1,27 @@
-h1 {
-    color: rgb(0, 110, 255);
-    background-color: skyblue;
-    }
-.marin h2 {
-    color:cadetblue;
+.header-container {
+    background-image:url(club.png);
 }
 body {
-    background:
+    background-color:#8497B0;
 }
-.club h1 {
+.club p {
     font-size:52px;
     color:#80BD9E;
-    font-family:"游ゴシック";
-    background-image:url("./背景1.png");
+    font-family:"游ゴシック Light";
     height: 300px;
-    
+    width:max-content;
 }
 .club h2 {
-    color:#889EC3;
+    color:#350DC9;
     font-size:26px;
+    font-family:"游ゴシック Light";
+}
+.club h3 {
+    font-size:26px;
+    font-family:"游ゴシック Light";
+}
+.students h2 {
+    color:#350DC9;
+    font-size:26px;
+    font-family:"游ゴシック Light";
 }
