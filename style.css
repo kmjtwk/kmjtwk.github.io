@@ -18,7 +18,7 @@ body {
     justify-content: center;
     align-items: center;
 }
-.header-container h2 {
+.header-container p {
     color:#336B87;
     font-family:"Yu Mincho";
     font-size:26px;
@@ -30,12 +30,23 @@ body {
     font-family:"Yu Mincho";
     text-align:center;
 }
+.robot ul {
+    text-align:center;
+}
 .club h3 {
     font-size:26px;
     font-family:"Yu Mincho";
 }
 .students h2 {
-    color:#350DC9;
+    color:#336B87;
     font-size:26px;
     font-family:"Yu Mincho";
+    text-align:center;
+}
+.new {
+    text-align:center;
+}
+.new h1 {
+    font-size:42px;
+    color:#336B87;
 }
