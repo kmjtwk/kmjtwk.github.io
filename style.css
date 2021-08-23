@@ -59,3 +59,15 @@ body {
 .new p {
     font-family:"Meiryo UI";
 }
+.new-2 {
+    text-align: center;
+}
+.new-2 h1 {
+    font-size:38px;
+}
+.new-2 h2 {
+    color:#4169E1;
+    font-family:"SimSun";
+    text-decoration:underline;
+    text-decoration-color:#66A6AB;
+}    
