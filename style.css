@@ -5,12 +5,12 @@
     height: 300px;
 }
 body {
-    background-color:#8497B0;
+    background-color:#8292A3;
 }
-.club h1 {
+.header-container h1 {
     font-size:52px;
-    color:#80BD9E;
-    font-family:"游ゴシック Light";
+    color:#257e0a;
+    font-family:"MS Mincho";
     height: 300px;
     width: 100%;
     height: 100%;
@@ -18,17 +18,24 @@ body {
     justify-content: center;
     align-items: center;
 }
-.club h2 {
-    color:#350DC9;
+.header-container h2 {
+    color:#336B87;
+    font-family:"Yu Mincho";
     font-size:26px;
-    font-family:"游ゴシック Light";
+    text-align:center;
+}
+.robot h2 {
+    color:#336b87;
+    font-size:26px;
+    font-family:"Yu Mincho";
+    text-align:center;
 }
 .club h3 {
     font-size:26px;
-    font-family:"游ゴシック Light";
+    font-family:"Yu Mincho";
 }
 .students h2 {
     color:#350DC9;
     font-size:26px;
-    font-family:"游ゴシック Light";
+    font-family:"Yu Mincho";
 }
