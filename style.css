@@ -5,11 +5,11 @@
     height: 300px;
 }
 body {
-    background-color:#8292A3;
+    background-color:#E6E6FA;
 }
 .header-container h1 {
     font-size:52px;
-    color:#257e0a;
+    color: #003B46;
     font-family:"MS Mincho";
     height: 300px;
     width: 100%;
@@ -47,6 +47,15 @@ body {
     text-align:center;
 }
 .new h1 {
-    font-size:42px;
-    color:#336B87;
+    font-size:38px;
+    color:#375E97;
+}
+.new h2 {
+    color:#4169E1;
+    font-family:"SimSun";
+    text-decoration:underline;
+    text-decoration-color:#66A6AB;
+}
+.new p {
+    font-family:"Meiryo UI";
 }
