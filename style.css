@@ -5,11 +5,11 @@
     height: 300px;
 }
 body {
-    background-color:#E6E6FA;
+    background-color:#9192B6;
 }
 .header-container h1 {
     font-size:52px;
-    color: #003B46;
+    color: #5A4D65;
     font-family:"MS Mincho";
     height: 300px;
     width: 100%;
@@ -18,7 +18,7 @@ body {
     justify-content: center;
     align-items: center;
 }
-.header-container p {
+/* .header-container p {
     color:#336B87;
     font-family:"Yu Mincho";
     font-size:26px;
@@ -42,35 +42,40 @@ body {
     font-size:26px;
     font-family:"Yu Mincho";
     text-align:center;
-}
+} */
 .new {
     text-align:center;
 }
 .new h1 {
     font-size:38px;
-    color:#375E97;
+    color:#494A77;
+    text-decoration: underline overline;
+    text-decoration-color:#181737;
 }
 .new h2 {
-    color:#4169E1;
+    color:#241B3D;
     font-family:"SimSun";
     text-decoration:underline;
-    text-decoration-color:#66A6AB;
+    text-decoration-color:#A298BC;
 }
 .new p {
     font-family:"Meiryo UI";
-}
+    color: #D8BFD8;
+}   
 .new-2 {
     text-align: center;
 }
 .new-2 h1 {
     font-size:38px;
-    color:#375E97;
+    color:#494A77;
+    text-decoration: underline overline;
+    text-decoration-color:#181737;
 }
 .new-2 h2 {
-    color:#4169E1;
+    color:#241B3D;
     font-family:"SimSun";
     text-decoration:underline;
-    text-decoration-color:#66A6AB;
+    text-decoration-color:#A298BC;
 }    
 .new-2 p {
     font-family:"Meiryo UI";
