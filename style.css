@@ -64,6 +64,7 @@ body {
 }
 .new-2 h1 {
     font-size:38px;
+    color:#375E97;
 }
 .new-2 h2 {
     color:#4169E1;
@@ -71,3 +72,6 @@ body {
     text-decoration:underline;
     text-decoration-color:#66A6AB;
 }    
+.new-2 p {
+    font-family:"Meiryo UI";
+}  
