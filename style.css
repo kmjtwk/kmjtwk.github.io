@@ -59,8 +59,9 @@ body {
     text-decoration-color:#A298BC;
 }
 .new p {
-    font-family:"Meiryo UI";
+    font-family:"MS PGothic";
     color: #D8BFD8;
+    font-size: 26px;
 }   
 .new-2 {
     text-align: center;
@@ -78,5 +79,7 @@ body {
     text-decoration-color:#A298BC;
 }    
 .new-2 p {
-    font-family:"Meiryo UI";
+    font-family:"MS PGothic";
+    color:#D8BFD8;
+    font-size: 26px;
 }  
