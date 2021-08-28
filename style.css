@@ -17,6 +17,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-style:oblique;
 }
 /* .header-container p {
     color:#336B87;
@@ -62,7 +63,7 @@ body {
     font-family:"MS PGothic";
     color: #D8BFD8;
     font-size: 26px;
-}   
+}
 .new-2 {
     text-align: center;
 }
@@ -82,4 +83,4 @@ body {
     font-family:"MS PGothic";
     color:#D8BFD8;
     font-size: 26px;
-}  
+}
