@@ -59,6 +59,12 @@ body {
     text-decoration:underline;
     text-decoration-color:#A298BC;
 }
+/* .new h3 {
+    float: right;
+    font-size: 26px;
+    color: #D8BFD8;
+    font-family: "MS PGothic";
+} */
 .new p {
     font-family:"MS PGothic";
     color: #D8BFD8;
@@ -83,4 +89,5 @@ body {
     font-family:"MS PGothic";
     color:#D8BFD8;
     font-size: 26px;
+    bottom: 30px;
 }
